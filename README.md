@@ -15,6 +15,13 @@
 
 </br>
 
+## ` BUILDPACKS`
+
+```
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+```
+
 <a href="https://github.com/itsme-shan"><img title="Author" src="https://img.shields.io/badge/Author-SHANZ-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
 <a href="https://github.com/Itsme-shan/SHANZ-BOT"><img title="Stars" src="https://img.shields.io/github/stars/itsme-shan/SHANZ-BOT?color=54aeff&style=flat-square" /></a>
 <a href="https://github.com/Itsme-shan/SHANZ-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Itsme-shan/SHANZ-BOT?color=54aeff&style=flat-square" /></a>
