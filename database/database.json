@@ -33,11 +33,11 @@
     "918798308154@s.whatsapp.net": {
       "status": 0,
       "autobio": false,
-      "templateImage": true,
+      "templateImage": false,
       "templateVideo": false,
       "templateGif": false,
       "templateMsg": false,
-      "templateDocument": false
+      "templateDocument": true
 
     }
   },
