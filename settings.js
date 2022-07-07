@@ -31,7 +31,7 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'your key',
+	'https://zenzapis.xyz': '4d658e18d01f',
 }
 
 
@@ -40,7 +40,7 @@ global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
-global.available = true //auto available (true to on, false to off)
+global.available = false //auto available (true to on, false to off)
 
 //semt menu variants
 global.vidmenu = fs.readFileSync("./XeonMedia/theme/Cheems-bot.mp4") //gif and video menu
@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['94725292890'] //ur owner number
+global.ownername = "么° 🄼 SHANZ 🥀|❤️" //ur owner name
+global.ytname = "YT: Mr SHANZ ツ" //ur yt chanel name
+global.socialm = "GitHub: Itsme-shanz" //ur github or insta name
+global.location = "Kandy, Sri Lanka" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213']
-global.ownertag = '916909137213' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
-global.reactmoji = "😘" //ur menu react emoji
+global.owner = ['94725292890']
+global.ownertag = '94725292890' //ur tag number
+global.botname = 'SHANZ-BOT' //ur bot name
+global.linkz = "https://chat.whatsapp.com/IdiOlEAsYiNFZ8Y4lXMYqe" //your theme url which will be displayed on whatsapp
+global.websitex = "https://chat.whatsapp.com/IdiOlEAsYiNFZ8Y4lXMYqe" //ur website to be displayed
+global.botscript = 'https://youtube.com/channel/UCX9GuKbYYWJ80O3Kymkn3Uw' //script link
+global.reactmoji = "❤" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.packname = "SHANZ-BOT STICKERS\n\n\n\n\n\n\n\n\n\n\n😼❤ " //ur sticker watermark packname
+global.author = "Mr SHANZ ツ" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['916909137213'] //ur premium numbers
+global.premium = ['94725292890'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
