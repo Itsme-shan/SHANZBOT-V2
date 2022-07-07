@@ -69,7 +69,7 @@ global.websitex = "https://youtube.com/channel/UCX9GuKbYYWJ80O3Kymkn3Uw" //ur we
 global.botscript = 'https://chat.whatsapp.com/IdiOlEAsYiNFZ8Y4lXMYqe' //script link
 global.reactmoji = "❤" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "SHANZ-BOT STICKERS\n\n\n\n\n\n\n\n\n\n\ශාන් මිලියනපතියෙක් වේවා😼❤ " //ur sticker watermark packname
+global.packname = "SHANZ-BOT STICKERS\n\n\n\n\n\n\n\nශාන් මිලියනපතියෙක් වේවා\n😼❤! " //ur sticker watermark packname
 global.author = "Mr SHANZ ツ" //ur sticker watermark author
 
 //Bot theme media
